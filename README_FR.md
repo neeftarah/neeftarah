@@ -1,6 +1,6 @@
 <div align="right">
-    <a href="README_FR.md"><img src="https://img.shields.io/badge/🇫🇷-Version_Française-blue" alt="FR"></a>
-    <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧-English_Version-red" alt="EN"></a>
+    <a href="README_FR.md"><img src="https://img.shields.io/badge/🇫🇷-Version_Française-002654" alt="FR"></a>
+    <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧-English_Version-c9072a" alt="EN"></a>
 </div>
 
 # Hi, I'm Jérémy MOREAU 👋
