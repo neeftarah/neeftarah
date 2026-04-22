@@ -1,25 +1,30 @@
+<div align="right">
+    <a href="README_FR.md"><img src="https://img.shields.io/badge/🇫🇷-Version_Française-002654" alt="FR"></a>
+    <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧-English_Version-c9072a" alt="EN"></a>
+</div>
+  
 # Hi, I'm Jérémy MOREAU 👋 
-## Lead Developer PHP / Symfony & Architecte Logiciel Opérationnel
+## Lead Developer PHP / Symfony & Operational Software Architect
 
-> **Expert backend avec plus de 20 ans d’expérience**, je me spécialise dans la stabilisation et la modernisation de systèmes complexes.  
-
----
-
-### 🎯 Objectif 2026
-
-* Actuellement en cursus **Ingénieur au CNAM**, j'allie pragmatisme de terrain et rigueur architecturale pour transformer les enjeux métiers en solutions scalables.
-* Intégration IA : LLM, RAG...
-
-## 🧠 Expertise & Leadership Technique
-
-* **Conception :**  Application des Design Patterns et des principes **SOLID**, du **DDD** et de la **Clean Architecture** pour des solutions robustes et maintenables.
-* **Modernisation de legacy :** Spécialiste de la refonte progressive de systèmes monolithiques/legacy vers des architectures modulaires ou micro-services.
-* **Qualité & Ops :** Culture forte du test (**TDD**, PHPUnit/JUnit), automatisation via des pipelines **CI/CD** complexes (GitLab CI, GitHub Actions, Jenkins) et monitoring de la dette technique via SonarQube..
-* **Transmission & Pédagogie :** Ancien contributeur GLPI, formateur technique et mentor pour profils juniors.
+> **Backend Expert with over 20 years of experience**, specializing in the stabilization and modernization of complex systems.
 
 ---
 
-## 🛠 Stack Technique
+### 🎯 2026 Objective
+
+* Currently pursuing a **Software Engineering degree at CNAM**, combining field pragmatism with architectural rigor to transform business challenges into scalable solutions.
+* AI Integration: LLMs, RAG...
+
+## 🧠 Expertise & Technical Leadership
+
+* **Design:** Applying Design Patterns, **SOLID** principles, **DDD**, and **Clean Architecture** to build robust and maintainable solutions.
+* **Legacy Modernization:** Specialist in the progressive refactoring of monolithic/legacy systems toward modular or micro-services architectures.
+* **Quality & Ops:** Strong testing culture (**TDD**, PHPUnit/JUnit), automation via complex **CI/CD** pipelines (GitLab CI, GitHub Actions, Jenkins), and technical debt monitoring through SonarQube.
+* **Transmission & Pedagogy:** Former GLPI contributor, technical trainer and mentor for junior profiles.
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages & Frameworks
 
@@ -31,7 +36,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### Base de données & Scalabilité
+### Databases & Scalability
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -51,7 +56,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Qualité & Documentation
+### Quality & Documentation
 
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![SonarQube](https://img.shields.io/badge/Sonar-126ED3?style=for-the-badge&logo=sonarqubeserver&logoColor=white)
@@ -63,7 +68,7 @@
 
 ---
 
-## 📫 Me contacter
+## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmoreau28)
 [![Site Perso](https://img.shields.io/badge/Site_Perso-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jmoreau.dev)
