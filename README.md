@@ -15,11 +15,7 @@
 * **Conception :**  Application des Design Patterns et des principes **SOLID**, du **DDD** et de la **Clean Architecture** pour des solutions robustes et maintenables.
 * **Modernisation de legacy :** Spécialiste de la refonte progressive de systèmes monolithiques/legacy vers des architectures modulaires ou micro-services.
 * **Qualité & Ops :** Culture forte du test (**TDD**, PHPUnit/JUnit), automatisation via des pipelines **CI/CD** complexes (GitLab CI, GitHub Actions, Jenkins) et monitoring de la dette technique via SonarQube..
-
-* **Transmission & Open Source :**
-
-    * **Contributions :** Ancien contributeur sur la solution open-source **GLPI**.
-    * **Pédagogie :** Animation de formations techniques (PHP, GLPI) et encadrement de profils plus juniors.
+* **Transmission & Pédagogie :** Ancien contributeur GLPI, formateur technique et mentor pour profils juniors.
 
 ---
 
@@ -35,7 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### base de données & Scalabilité
+### Base de données & Scalabilité
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
