@@ -4,9 +4,9 @@
 </div>
   
 # Hi, I'm Jérémy MOREAU 👋 
-## Lead Developer PHP / Symfony & Operational Software Architect
+## Lead Developer PHP / Symfony - Backend expert
 
-> **Backend Expert with over 20 years of experience**, specializing in the stabilization and modernization of complex systems.
+> **Backend Expert with over 22 years of experience**, specializing in the stabilization and modernization of complex systems.
 
 ---
 
